@@ -15,6 +15,8 @@ public class Lab1Q2 {
         
         //System.out.print(new Question2 (12, 23, 14).Minimum());
         
-        System.out.print(new Question3 (5).Hailstone());
+        //System.out.print(new Question3 (5).Hailstone());
+        
+        //System.out.print(new Question4 (5).SumEven());
     }
 }
